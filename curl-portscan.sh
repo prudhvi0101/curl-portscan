@@ -4,7 +4,7 @@
 #
 # Portscans a host using curl, because its almost always available.
 # It is no replacement for nmap, but gets the job done!
-#
+#test
 
 DEFAULT_PORTS="1-1024"
 DEFAULT_TIMEOUT=1
