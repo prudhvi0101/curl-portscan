@@ -40,3 +40,4 @@ Scanning can also be done via a 1 liner to avoid writes to disk:
 - Randomize port list
 - Shortened version that can be copied/pasted easier through crappy netcat shells
 
+dfd
