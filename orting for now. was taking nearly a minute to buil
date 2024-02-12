@@ -1,0 +1,95 @@
+[33mcommit 395618134c750755136ff66bffc5578a7648cd33[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sk3l10x1ng <mr4obot@gmail.com>
+Date:   Mon Feb 12 21:29:47 2024 +0530
+
+    ttes
+
+[33mcommit b35c3375356124ad09de0a170e2427eebf4c15b2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Prudhvi Chaitanya <150059558+prudhvi0101@users.noreply.github.com>
+Date:   Mon Feb 12 21:18:48 2024 +0530
+
+    test
+
+[33mcommit 4f43c32123c1ab00e5df9db78e9d0d900c70c54d[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue May 2 18:01:03 2017 -0700
+
+    fixed slow sort of port list
+
+[33mcommit 6b2f6ee6e26f56e9eae38ad9c2538819f9b34bba[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 17:48:03 2017 -0700
+
+    removed sorting for now. was taking nearly a minute to build port list
+
+[33mcommit 8e98275006422ce97056933f32d319b616d3c964[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 14:10:16 2017 -0700
+
+    added all option to -p flag
+
+[33mcommit 6f641590c477bbecd87d696be84b24ea46afbfd5[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 13:52:59 2017 -0700
+
+    added some more text
+
+[33mcommit b194461c09771c830b58bb2e048ea1ee98950ad7[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 11:15:07 2017 -0700
+
+    fixed shellcheck warning and seq invalid floating point error
+
+[33mcommit de9fbda3ad26ff5bf0f0f74944d1146eeb4a7f19[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 10:54:57 2017 -0700
+
+    linted with shellcheck
+
+[33mcommit 5d8a39fa4c0d8fb7fc628e950e55ba4963f350b1[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 09:47:08 2017 -0700
+
+    fixed verbosity bug
+
+[33mcommit 7524266b4d02cb98c0e52d5fad26b2c48e190ce6[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 09:43:51 2017 -0700
+
+    added -e flag to echo to evaluate escaped characters
+
+[33mcommit 405a520ebe148654609c38d2c0a285ecb111aa9f[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 09:42:58 2017 -0700
+
+    added verbose option
+
+[33mcommit 58730c2fc7e80ad2378961289e316d2ad8f90969[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 09:34:40 2017 -0700
+
+    added /etc/services lookup feature
+
+[33mcommit e0867ca699f0c9ce16f873018e0a93677389ff35[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 08:37:59 2017 -0700
+
+    added sanity check for port ranges
+
+[33mcommit 590b37dc180b280a82b59c0bd46e1cfbab2b3133[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Tue Apr 25 05:23:34 2017 -0700
+
+    removed redundant , minor formatting changes
+
+[33mcommit 7e1f9f4354969714a5e07bfeaeb48a4b9c4e2095[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Mon Apr 24 19:52:39 2017 -0700
+
+    formatting touchup
+
+[33mcommit bc37721634d2325f83eb2c72c086a61842ae22b0[m
+Author: Daniel Roberson <daniel@planethacker.net>
+Date:   Mon Apr 24 19:51:31 2017 -0700
+
+    initial commit
